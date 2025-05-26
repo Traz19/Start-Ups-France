@@ -1,0 +1,47 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f6f8;
+  color: #333;
+}
+
+header {
+  background-color: #1e90ff;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+#search {
+  margin-top: 10px;
+  padding: 10px;
+  width: 80%;
+  max-width: 400px;
+  border: none;
+  border-radius: 5px;
+}
+
+main {
+  padding: 20px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: white;
+}
+
+th, td {
+  padding: 12px;
+  border: 1px solid #ddd;
+  text-align: left;
+}
+
+th {
+  background-color: #f0f0f0;
+}
+
+tr:hover {
+  background-color: #f9f9f9;
+}
